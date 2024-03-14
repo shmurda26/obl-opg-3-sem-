@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obl opg 3 sem 2.", "..\obl opg 3 sem 2\obl opg 3 sem 2\obl opg 3 sem 2..csproj", "{3C7ECF01-A4F4-42B8-AE99-05FF28FD471A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obl opg test", "..\obl opg 3 sem 2\obl opg test\obl opg test.csproj", "{8E3A064C-112B-4B93-AEA2-0F031D818323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7ECF01-A4F4-42B8-AE99-05FF28FD471A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7ECF01-A4F4-42B8-AE99-05FF28FD471A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7ECF01-A4F4-42B8-AE99-05FF28FD471A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7ECF01-A4F4-42B8-AE99-05FF28FD471A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3A064C-112B-4B93-AEA2-0F031D818323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3A064C-112B-4B93-AEA2-0F031D818323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3A064C-112B-4B93-AEA2-0F031D818323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3A064C-112B-4B93-AEA2-0F031D818323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE44018-9F25-42C0-B4ED-AC08523D0186}
+	EndGlobalSection
+EndGlobal
